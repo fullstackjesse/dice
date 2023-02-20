@@ -1,0 +1,10 @@
+
+# Site settings
+title: Jesse Hill Dice Game
+author:
+  name: Jesse Hill
+  email: fullstackjh@gmail.com
+description: "Jesse Hill JS Dice Game"
+
+# Build settings
+remote_theme: jekyll/minima
